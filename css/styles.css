@@ -1,0 +1,89 @@
+header, main, footer {
+    width: 100%;
+    max-width: 1280px;
+}
+
+footer {
+    margin-top: auto;
+}
+header{
+    width: 1280;
+    height: 93;
+    background-color:#833AE1;
+
+
+}
+div {
+    width: 103;
+    height: 30;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-offset: 0%;
+    text-decoration-thickness: 0%;
+    
+    
+
+
+}
+header{
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap;
+  
+  
+  
+
+}
+header img{
+width: 42px;
+height: 53px;
+
+}
+header div{
+ display: flex;
+ align-items: center;
+ gap:95px
+  
+
+
+    
+}
+header div a{
+ font-family: "Montserrat";
+ font-weight: 700;
+ font-size: 24px;
+ color:#FFF;
+ text-decoration:underline;
+ 
+
+
+}
+footer{
+  pa
+
+  
+
+
+}
+footer  .top{
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ padding-bottom: 36px;
+ border-bottom: 2px solid #602B7A;
+ margin-bottom: 27px;
+ padding:
+  
+
+
+
+
+}
