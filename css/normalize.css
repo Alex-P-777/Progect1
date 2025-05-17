@@ -1,14 +1,32 @@
 * {
     margin: 0;
     padding: 0;
-    color: #FFF;
-    font-family: Inter;
+    color: #833AE1;
+    font-family: Montserrat;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: #2A2C2F;
+    background-color: #ffe9e9;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
+}
+
+header,
+main,
+footer {
+    width: 100%;
+    max-width: 1280px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+main,
+footer {
+    background-color: #FBF9F9;
+}
+
+footer {
+    margin-top: auto;
 }
